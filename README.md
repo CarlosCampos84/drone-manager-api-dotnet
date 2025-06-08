@@ -83,7 +83,9 @@ A aplicação estará disponível em `http://localhost:5199`
 - Validações de domínio
 - Integração com repositórios
 
-**Diagrama de Classes**
+## 🧩 Diagrama de Classes
+
+![Diagrama de Classes](./docs/diagrnet.png)
 
 
 ## 🧪 Testes
