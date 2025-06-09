@@ -89,7 +89,7 @@ A aplicação estará disponível em `http://localhost:5199`
 
 ## 🎙️Vídeo Pitch
 
-Link: 
+Link: https://youtu.be/l2A_7gutvWo
 
 ## 🧪 Testes
 
