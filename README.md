@@ -87,6 +87,9 @@ A aplicação estará disponível em `http://localhost:5199`
 
 ![Diagrama de Classes](./docs/diagrnet.png)
 
+## 🎙️Vídeo Pitch
+
+Link: 
 
 ## 🧪 Testes
 
